@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mertbildirici1
+- 👋 Hi, I’m Mert Bildirici!
 - 👀 I’m interested in computer science and data. 
 - 🌱 I’m currently learning data structures and algorithms in Java. 
 - 💞️ I’m looking to collaborate on ...
