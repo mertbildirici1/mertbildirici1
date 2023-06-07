@@ -1,7 +1,5 @@
-- 👋 Hi, I’m Mert Bildirici!
-- 👀 I’m interested in computer science and data. 
-- 🌱 I’m currently learning data structures and algorithms in Java. 
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Mert Bildirici, a rising sophomore at Duke!
+- 👀 I’m interested in computer science and data analysis/visualization. 
 - 📫 How to reach me 
 - Phone number: 9194336434
 - Email: hmertbildirici@gmail.com
