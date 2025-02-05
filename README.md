@@ -1,5 +1,5 @@
 # 💫 About Me:
-Junior at Duke University studying Computer Science.<br>Interested in AI/ML, software development and quantitative finance. 
+Junior at Duke studying CS.<br>Interested in AI/ML, software development and quantitative finance. 
 
 
 ## 🌐 Socials:
