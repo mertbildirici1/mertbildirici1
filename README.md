@@ -1,5 +1,6 @@
 # 💫 About Me:
-Duke CS.<br>Interested in AI/ML, software development and quantitative finance. 
+Duke CS. Now @[Tanium](https://www.tanium.com). <br>
+Interested in AI/ML, software development and quantitative finance.
 
 
 ## 🌐 Socials:
